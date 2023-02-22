@@ -1,0 +1,1 @@
+cmd_buxx/hd/include/linux/spi/.install := /bin/bash ../scripts/headers_install.sh buxx/hd/include/linux/spi ../include/uapi/linux/spi spidev.h; /bin/bash ../scripts/headers_install.sh buxx/hd/include/linux/spi ./include/generated/uapi/linux/spi ; touch buxx/hd/include/linux/spi/.install

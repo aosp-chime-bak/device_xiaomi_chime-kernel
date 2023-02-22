@@ -1,0 +1,1 @@
+cmd_buxx/hd/include/misc/.install := /bin/bash ../scripts/headers_install.sh buxx/hd/include/misc ../include/uapi/misc cxl.h ocxl.h wigig_sensing_uapi.h; /bin/bash ../scripts/headers_install.sh buxx/hd/include/misc ./include/generated/uapi/misc ; touch buxx/hd/include/misc/.install

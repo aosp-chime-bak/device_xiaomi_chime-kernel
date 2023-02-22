@@ -1,0 +1,1 @@
+cmd_buxx/hd/include/linux/nfc/.install := /bin/bash ../scripts/headers_install.sh buxx/hd/include/linux/nfc ../include/uapi/linux/nfc nfcinfo.h; /bin/bash ../scripts/headers_install.sh buxx/hd/include/linux/nfc ./include/generated/uapi/linux/nfc ; touch buxx/hd/include/linux/nfc/.install

@@ -1,0 +1,1 @@
+cmd_buxx/hd/include/rdma/hfi/.install := /bin/bash ../scripts/headers_install.sh buxx/hd/include/rdma/hfi ../include/uapi/rdma/hfi hfi1_ioctl.h hfi1_user.h; /bin/bash ../scripts/headers_install.sh buxx/hd/include/rdma/hfi ./include/generated/uapi/rdma/hfi ; touch buxx/hd/include/rdma/hfi/.install

@@ -1,0 +1,1 @@
+cmd_buxx/hd/include/linux/wimax/.install := /bin/bash ../scripts/headers_install.sh buxx/hd/include/linux/wimax ../include/uapi/linux/wimax i2400m.h; /bin/bash ../scripts/headers_install.sh buxx/hd/include/linux/wimax ./include/generated/uapi/linux/wimax ; touch buxx/hd/include/linux/wimax/.install

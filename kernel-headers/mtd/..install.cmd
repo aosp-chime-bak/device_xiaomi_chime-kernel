@@ -1,0 +1,1 @@
+cmd_buxx/hd/include/mtd/.install := /bin/bash ../scripts/headers_install.sh buxx/hd/include/mtd ../include/uapi/mtd ubi-user.h mtd-abi.h inftl-user.h mtd-user.h nftl-user.h; /bin/bash ../scripts/headers_install.sh buxx/hd/include/mtd ./include/generated/uapi/mtd ; touch buxx/hd/include/mtd/.install

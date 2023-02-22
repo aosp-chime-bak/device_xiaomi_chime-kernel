@@ -1,0 +1,1 @@
+cmd_buxx/hd/techpack/audio/include/linux/mfd/.install := /bin/bash ../scripts/headers_install.sh buxx/hd/techpack/audio/include/linux/mfd ../techpack/audio/include/uapi/linux/mfd ; /bin/bash ../scripts/headers_install.sh buxx/hd/techpack/audio/include/linux/mfd ./techpack/audio/include/generated/uapi/linux/mfd ; touch buxx/hd/techpack/audio/include/linux/mfd/.install

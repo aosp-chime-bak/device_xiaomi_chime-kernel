@@ -1,0 +1,1 @@
+cmd_buxx/hd/include/linux/isdn/.install := /bin/bash ../scripts/headers_install.sh buxx/hd/include/linux/isdn ../include/uapi/linux/isdn capicmd.h; /bin/bash ../scripts/headers_install.sh buxx/hd/include/linux/isdn ./include/generated/uapi/linux/isdn ; touch buxx/hd/include/linux/isdn/.install
